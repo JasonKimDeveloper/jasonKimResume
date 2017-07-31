@@ -1,0 +1,11 @@
+title: JasonKim
+url: ""
+baseurl: "/JasonKim"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
