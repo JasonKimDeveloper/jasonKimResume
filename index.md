@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## JasonKim Resume
 
 <img class="profile-picture" src="me.jpg">
 
