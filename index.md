@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Hi!, My Name is Jason Kim (Korean Name is Kim Seok Yong).
+Hi!, My Name is Jason Kim (Korean Name is Kim Seokyong).
 I'm live in Inchoen, South Korea.
 Android / PHP Developer, I'd work for Oponiti provided mobile game coupons, launches, updates and information on mobile games and coupons to gamers. The cumulative number of installed services was 800,000, but currently (January 2017 sale) is not serviced by oponiti.
 Now, we have developed AllBus, a charter bus comparison service, which was difficult to compare and complex.
