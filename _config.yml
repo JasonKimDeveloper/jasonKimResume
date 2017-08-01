@@ -1,8 +1,10 @@
-title: JasonKim
-url: "jasonkimdeveloper.github.io"
-baseurl: "/JasonKim"
+title: Researcher
+url: "http://ankitsultana.com"
+baseurl: "/researcher"
 
 markdown: kramdown
+
+tracking_id: #
 
 sass:
     style: compressed
