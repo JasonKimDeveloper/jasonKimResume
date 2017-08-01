@@ -43,7 +43,6 @@ I personally like to gather people, discuss and talk about technology. Many peop
    - Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology.
    - Operating Google Tech Seminar & Study & Something..
    - We are Catch phrase is "Coding For a Better World"
-   - 
 
 - Code For Incheon (http://codeforincheon.org/)
    - We are a civic engagement meeting to solve community problems with public technology and IT.
