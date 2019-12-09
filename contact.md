@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 * Email: [yong076@gmail.com](yong076@gmail.com)
-
+* KakaoTalk: [yong076]
 * Phone: [010-3185-0969](tel:010-3185-0969)
 
 ---
