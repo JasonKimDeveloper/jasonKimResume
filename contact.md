@@ -1,4 +1,5 @@
 ---
+layout: default
 is_contact: true
 ---
 
@@ -9,6 +10,7 @@ is_contact: true
 ---
 
 ## Social
-
 1. [Facebook](#https://www.facebook.com/yong076)
-3. [GitHub+](#https://github.com/yong076)
+2. [GitHub+](#https://github.com/yong076)
+3. [Instagram](#https://www.instagram.com/yong076/)
+4. [Twitter](#https://twitter.com/@yong076)
