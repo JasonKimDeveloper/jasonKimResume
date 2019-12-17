@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="me.jpg">
 
 Hi!, My Name is Daniel Kim (Korean Name : Kim Seok Yong).
-I'm iOS / Android / PHP Developer, I work for RootonSoft provided mobile CryptoCurrency Wallet Application.
+I'm a iOS / Android / PHP Developer, I work for RootonSoft provided mobile CryptoCurrency Wallet Application.
 
 I personally like to gather people, discuss and talk about technology.
 
@@ -23,12 +23,13 @@ I personally like to gather people, discuss and talk about technology.
 
 ## Projects
 
-- RootoneSoft 
+- RootoneSoft (iOS)
    - BitBerry (iOS / BackOffice)
    - App Store (Application Avilable)
+   - [Web](https://bitberry.app/)
 
 - JooyonHomeShopping App (Android / iOS / Backend / WEB)
-   - http://jooyonshop.com/
+   - [Web](http://jooyonshop.com/)
    - Play Store / App Store (Application Avilable)
 
 - AllBus (Android / iOS / Backend)
@@ -48,7 +49,7 @@ I personally like to gather people, discuss and talk about technology.
    - 14-09-16 ~ 17-11-28
 - Jooyon HomeShopping (Developer)
    - 17-12-02 ~ 18-03-28
-- RootOneSoft (Software Developer)
+- RootOneSoft (Software Engineer)
    - 18-04-11 ~ Now
 
 ## PersonalActivity
