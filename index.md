@@ -6,10 +6,10 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Hi!, My Name is Daniel Kim (Korean Name is Kim Seok Yong).
-I'm iOS / Android / PHP Developer, I'd work for RootonSoft provided mobile CryptoCurrency Wallet Application.
+Hi!, My Name is Daniel Kim (Korean Name : Kim Seok Yong).
+I'm iOS / Android / PHP Developer, I work for RootonSoft provided mobile CryptoCurrency Wallet Application.
 
-I personally like to gather people, discuss and talk about technology. Many people like information technology to ease discomfort and dream of a better future together.
+I personally like to gather people, discuss and talk about technology.
 
 ## Skills
 - iOS (Swift)
